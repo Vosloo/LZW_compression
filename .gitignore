@@ -1,5 +1,6 @@
 .vscode
 build/*.txt
+build/main
 data/*.bin
 *.sh
 *.zip
